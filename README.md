@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 
 ## 💼 Work Experience
 
-- **Infosys-Pega** (June 2024 - Present)  
+- **Infosys** (June 2024 - Aug 2024)  
   Developed a telemedicine platform with video consultations, electronic health records, and AI-driven diagnostics. Collaborated using the Pega tool.
 
 - **Maharaja Coding Club** (Oct 2022 - Present)  
