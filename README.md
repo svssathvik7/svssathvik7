@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 - [LinkedIn](https://www.linkedin.com/in/sathvik-svs-a76596230/)
 - [Portfolio](http://sathvik-7-portfolio.onrender.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/svssathvik77/)
+- [Leetcode](https://leetcode.com/u/sevesasa77/)
 
 ## 💼 Work Experience
 
