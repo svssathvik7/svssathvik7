@@ -47,16 +47,16 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 
 ## 💼 Work Experience
 
+- **Catalog.fi** (Oct 2024 - Present)  
+  Working as a software developer intern    
+  
 - **Infosys** (June 2024 - Aug 2024)  
   Developed a telemedicine platform with video consultations, electronic health records, and AI-driven diagnostics.  
   Collaborated using the Pega tool.
 
-- **Maharaja Coding Club** (Oct 2022 - Present)  
+- **Maharaja Coding Club** (Oct 2022 - Sept 2024)  
   Co-founder and Lead Instructor. Founded and managed the MVGR Coding Club, engaging 300-350 students.  
   Taught web development and DSA, and organized coding contests.
-
-- **Novizit** (Sept 2023 - Feb 2024)  
-  Software Developer Intern. Developed Novizit app using React-Native and TailwindCSS, reducing development time by 25% through reusable components and optimized code.
 
 ## 🎓 Education
 
