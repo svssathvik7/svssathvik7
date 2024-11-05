@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 ## 📫 Let's Connect!
 
 - [Instagram](https://www.instagram.com/svssathvik7/?hl=en)
-- [LinkedIn]([(https://www.linkedin.com/in/venkata-sai-sathvik-seethamraju-a76596230/)])
+- [LinkedIn](https://www.linkedin.com/in/venkata-sai-sathvik-seethamraju-a76596230/)
 - [Portfolio](http://sathvik-7-portfolio.onrender.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/svssathvik77/)
 - [Leetcode](https://leetcode.com/u/sevesasa77/)
