@@ -68,9 +68,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 
 - Elite + Silver Medal in Problem-Solving through Programming in C by NPTEL
 - Global rank 1627 in Xtreme 17.0 by IEEE
-- Second rank among academic toppers of MVGRCE (2021-25)
 - CodeChef Institute Rank Topper (2021-2025), 1640 Rating
-- Selected for Padutha Theeyaga Ramoji film city round audition (2022, 2024)
 
 ## 📊 GitHub Stats
 
