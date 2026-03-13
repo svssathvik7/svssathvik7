@@ -3,11 +3,6 @@
 Backend engineer building multi-chain infrastructure at **[Garden Finance](https://garden.finance)**. I write Rust and TypeScript for systems that move value across Bitcoin, EVM, Solana, and Sui.
 
 I care about correctness, performance, and keeping things simple under pressure.
-
-```rust
-let focus = vec!["cross-chain protocols", "RPC infrastructure", "reward systems", "developer SDKs"];
-```
-
 ---
 
 ### What I'm building
