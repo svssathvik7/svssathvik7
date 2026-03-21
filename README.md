@@ -7,11 +7,40 @@ I care about correctness, performance, and keeping things simple under pressure.
 
 ### What I'm building
 
-**[Turbine](https://crates.io/crates/turbine-rpc-proxy)** — Multi-chain RPC proxy in Rust. Intelligent endpoint rotation, health checks, response caching, rate limiting, hedged requests, method routing, and per-endpoint auth. Supports any JSON-RPC chain.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Garden SDK](https://www.npmjs.com/search?q=%40gardenfi%2Fcore)** — TypeScript SDK for cross-chain atomic swaps. Led Bitcoin HTLC support, wallet connectors (OKX, Unisat, Xverse), Sui and Litecoin integrations, and Spark L2 support.
+**[Turbine](https://github.com/svssathvik7/turbine)** &nbsp; [![](https://img.shields.io/crates/v/turbine-rpc-proxy?style=flat-square&color=e6832a)](https://crates.io/crates/turbine-rpc-proxy)
 
-**Garden Staking & Distribution** — Rust backend powering on-chain reward distribution, staking logic, and precision accounting for [Garden Finance](https://app.garden.finance/stake).
+Multi-chain RPC proxy in Rust. Endpoint rotation, health checks, caching, rate limiting, hedged requests, method routing, per-endpoint auth. Any JSON-RPC chain.
+
+</td>
+<td width="50%" valign="top">
+
+**[Conductor](https://github.com/svssathvik7/conductor)**
+
+Self-hosted visual API workflow tester. Chain HTTP requests, extract variables, add conditional gates, loop steps, parallel execution — run multi-step flows with one click.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Garden SDK](https://www.npmjs.com/search?q=%40gardenfi%2Fcore)**
+
+TypeScript SDK for cross-chain atomic swaps. Bitcoin HTLC support, wallet connectors (OKX, Unisat, Xverse), Sui and Litecoin integrations, Spark L2 support.
+
+</td>
+<td width="50%" valign="top">
+
+**Garden Staking & Distribution**
+
+Rust backend powering on-chain reward distribution, staking logic, and precision accounting for [Garden Finance](https://app.garden.finance/stake).
+
+</td>
+</tr>
+</table>
 
 ---
 
